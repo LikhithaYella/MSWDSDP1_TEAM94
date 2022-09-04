@@ -1,0 +1,22 @@
+Post, freight & cargo management system (PFC):
+
+Cargo Management System is a web-based application designed to computerize the various operations in cargo agencies.
+
+ It aims at managing and implementing activities and plans of a cargo company.
+
+ In order to reduce the manual work and to create a reliable working platform, computerized cargo management system is an essential component for all cargo agencies these days. 
+
+The cargo management system application performs multi-task in effective management of cargo companies.
+
+ The major aim of the generated application from the project is to reduce the manual work and provide fast, comfortable, reliable, and effective service. 
+
+The software can record data in the database, display billing details, inquire modules, and many more.
+
+ As the implementation of software in cargo agencies reduces the number of workers and paper works, it ultimately minimizes the overall expenditure of the company.
+
+ Moreover, it helps the company in its promotion though web technology. 
+
+A freight management system helps shippers streamline supply chain operations, 
+simplify the shipping process, and increase logistical efficiency. ... Also known as a 
+transportation management system, freight management systems allow shippers to: Book orders instantly. 
+
